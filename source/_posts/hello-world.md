@@ -6,7 +6,7 @@ title: 你好,张玉燕
 
 ```
   github地址 :
-  https://github.com/Baobao991112/baobao991112.github.io
+  git@github.com:Baobao991112/blogFile.git
   hexo博客库地址 :
   https://hexo.io/zh-cn/docs/setup
 ```
